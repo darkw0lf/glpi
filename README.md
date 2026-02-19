@@ -1,1 +1,3 @@
-# glpi
+glpi
+
+Installation via Docker
