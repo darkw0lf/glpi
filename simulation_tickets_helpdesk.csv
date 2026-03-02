@@ -1,0 +1,301 @@
+ID_Ticket,Technicien,Priorité,Statut,Type_Problème,Description,Date_Création,Date_Résolution
+TICK-01-001,Tech_01,Basse,Fermé,Accès,Problème de Email signalé par l'utilisateur.,2026-02-08,2026-02-19
+TICK-01-002,Tech_01,Haute,Résolu,Sauvegarde,Problème de Accès signalé par l'utilisateur.,2026-02-27,
+TICK-01-003,Tech_01,Moyenne,Résolu,Accès,Problème de Logiciel signalé par l'utilisateur.,2026-02-05,
+TICK-01-004,Tech_01,Critique,En cours,Accès,Problème de Matériel signalé par l'utilisateur.,2026-01-24,
+TICK-01-005,Tech_01,Basse,Fermé,Matériel,Problème de Autre signalé par l'utilisateur.,2026-01-12,2026-01-25
+TICK-01-006,Tech_01,Haute,En cours,Réseau,Problème de Email signalé par l'utilisateur.,2026-01-28,
+TICK-01-007,Tech_01,Haute,Ouvert,Email,Problème de Accès signalé par l'utilisateur.,2026-02-21,
+TICK-01-008,Tech_01,Basse,Fermé,Logiciel,Problème de Autre signalé par l'utilisateur.,2026-01-09,
+TICK-01-009,Tech_01,Critique,En cours,Email,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-09,
+TICK-01-010,Tech_01,Critique,Ouvert,Logiciel,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-16,
+TICK-01-011,Tech_01,Moyenne,En cours,Imprimante,Problème de Mot de passe signalé par l'utilisateur.,2026-01-04,
+TICK-01-012,Tech_01,Moyenne,Fermé,Autre,Problème de Imprimante signalé par l'utilisateur.,2026-01-29,2026-02-08
+TICK-01-013,Tech_01,Haute,En cours,Virus,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-14,
+TICK-01-014,Tech_01,Basse,Résolu,Sauvegarde,Problème de Autre signalé par l'utilisateur.,2026-01-21,2026-01-23
+TICK-01-015,Tech_01,Basse,Ouvert,Matériel,Problème de Virus signalé par l'utilisateur.,2026-01-25,
+TICK-01-016,Tech_01,Critique,Fermé,Sauvegarde,Problème de Réseau signalé par l'utilisateur.,2026-01-07,2026-01-08
+TICK-01-017,Tech_01,Haute,Ouvert,Accès,Problème de Autre signalé par l'utilisateur.,2026-01-17,
+TICK-01-018,Tech_01,Basse,Résolu,Sauvegarde,Problème de Logiciel signalé par l'utilisateur.,2026-02-08,2026-02-20
+TICK-01-019,Tech_01,Moyenne,Résolu,Sauvegarde,Problème de Accès signalé par l'utilisateur.,2026-02-02,
+TICK-01-020,Tech_01,Haute,Résolu,Matériel,Problème de Réseau signalé par l'utilisateur.,2026-02-04,2026-02-10
+TICK-01-021,Tech_01,Basse,Ouvert,Autre,Problème de Email signalé par l'utilisateur.,2026-02-06,
+TICK-01-022,Tech_01,Haute,Résolu,Autre,Problème de Autre signalé par l'utilisateur.,2026-01-14,2026-01-23
+TICK-01-023,Tech_01,Critique,Résolu,Email,Problème de Matériel signalé par l'utilisateur.,2026-03-01,
+TICK-01-024,Tech_01,Basse,En cours,Email,Problème de Email signalé par l'utilisateur.,2026-02-21,
+TICK-01-025,Tech_01,Basse,Fermé,Email,Problème de Réseau signalé par l'utilisateur.,2026-02-14,2026-02-27
+TICK-01-026,Tech_01,Moyenne,Ouvert,Virus,Problème de Accès signalé par l'utilisateur.,2026-01-22,
+TICK-01-027,Tech_01,Critique,Fermé,Autre,Problème de Email signalé par l'utilisateur.,2026-01-06,2026-01-18
+TICK-01-028,Tech_01,Basse,Ouvert,Virus,Problème de Virus signalé par l'utilisateur.,2026-01-28,
+TICK-01-029,Tech_01,Moyenne,Résolu,Sauvegarde,Problème de Virus signalé par l'utilisateur.,2026-02-21,2026-02-24
+TICK-01-030,Tech_01,Critique,Fermé,Mot de passe,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-06,2026-02-16
+TICK-02-001,Tech_02,Moyenne,Ouvert,Imprimante,Problème de Email signalé par l'utilisateur.,2026-02-10,
+TICK-02-002,Tech_02,Critique,Ouvert,Matériel,Problème de Matériel signalé par l'utilisateur.,2026-01-02,
+TICK-02-003,Tech_02,Basse,Résolu,Matériel,Problème de Matériel signalé par l'utilisateur.,2026-01-02,2026-01-08
+TICK-02-004,Tech_02,Moyenne,Fermé,Mot de passe,Problème de Email signalé par l'utilisateur.,2026-01-19,2026-01-24
+TICK-02-005,Tech_02,Haute,Fermé,Matériel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-04,
+TICK-02-006,Tech_02,Moyenne,En cours,Matériel,Problème de Virus signalé par l'utilisateur.,2026-01-24,
+TICK-02-007,Tech_02,Critique,Résolu,Imprimante,Problème de Réseau signalé par l'utilisateur.,2026-03-01,2026-03-14
+TICK-02-008,Tech_02,Critique,Fermé,Email,Problème de Imprimante signalé par l'utilisateur.,2026-01-26,2026-01-29
+TICK-02-009,Tech_02,Critique,En cours,Matériel,Problème de Virus signalé par l'utilisateur.,2026-02-10,
+TICK-02-010,Tech_02,Haute,En cours,Email,Problème de Autre signalé par l'utilisateur.,2026-01-25,
+TICK-02-011,Tech_02,Moyenne,Ouvert,Matériel,Problème de Accès signalé par l'utilisateur.,2026-02-17,
+TICK-02-012,Tech_02,Basse,Ouvert,Réseau,Problème de Réseau signalé par l'utilisateur.,2026-02-06,
+TICK-02-013,Tech_02,Moyenne,Fermé,Sauvegarde,Problème de Matériel signalé par l'utilisateur.,2026-02-17,2026-02-21
+TICK-02-014,Tech_02,Critique,Fermé,Mot de passe,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-24,2026-01-25
+TICK-02-015,Tech_02,Haute,Ouvert,Virus,Problème de Logiciel signalé par l'utilisateur.,2026-01-20,
+TICK-02-016,Tech_02,Critique,Résolu,Virus,Problème de Imprimante signalé par l'utilisateur.,2026-02-15,2026-02-21
+TICK-02-017,Tech_02,Basse,En cours,Imprimante,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-02,
+TICK-02-018,Tech_02,Basse,Fermé,Réseau,Problème de Mot de passe signalé par l'utilisateur.,2026-01-08,2026-01-09
+TICK-02-019,Tech_02,Moyenne,En cours,Réseau,Problème de Mot de passe signalé par l'utilisateur.,2026-02-24,
+TICK-02-020,Tech_02,Moyenne,Ouvert,Matériel,Problème de Matériel signalé par l'utilisateur.,2026-01-08,
+TICK-02-021,Tech_02,Haute,Fermé,Matériel,Problème de Matériel signalé par l'utilisateur.,2026-01-05,2026-01-08
+TICK-02-022,Tech_02,Basse,En cours,Mot de passe,Problème de Réseau signalé par l'utilisateur.,2026-02-13,
+TICK-02-023,Tech_02,Basse,Fermé,Matériel,Problème de Accès signalé par l'utilisateur.,2026-03-01,
+TICK-02-024,Tech_02,Haute,Fermé,Accès,Problème de Email signalé par l'utilisateur.,2026-01-31,2026-02-01
+TICK-02-025,Tech_02,Moyenne,Ouvert,Mot de passe,Problème de Autre signalé par l'utilisateur.,2026-02-02,
+TICK-02-026,Tech_02,Critique,En cours,Mot de passe,Problème de Email signalé par l'utilisateur.,2026-01-03,
+TICK-02-027,Tech_02,Moyenne,En cours,Matériel,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-02,
+TICK-02-028,Tech_02,Critique,En cours,Email,Problème de Autre signalé par l'utilisateur.,2026-02-02,
+TICK-02-029,Tech_02,Critique,Ouvert,Autre,Problème de Email signalé par l'utilisateur.,2026-02-24,
+TICK-02-030,Tech_02,Critique,Ouvert,Réseau,Problème de Email signalé par l'utilisateur.,2026-02-26,
+TICK-03-001,Tech_03,Haute,Fermé,Mot de passe,Problème de Réseau signalé par l'utilisateur.,2026-01-15,2026-01-17
+TICK-03-002,Tech_03,Basse,En cours,Mot de passe,Problème de Autre signalé par l'utilisateur.,2026-01-25,
+TICK-03-003,Tech_03,Moyenne,Fermé,Mot de passe,Problème de Mot de passe signalé par l'utilisateur.,2026-02-27,
+TICK-03-004,Tech_03,Critique,Ouvert,Accès,Problème de Accès signalé par l'utilisateur.,2026-02-12,
+TICK-03-005,Tech_03,Critique,Ouvert,Imprimante,Problème de Réseau signalé par l'utilisateur.,2026-02-08,
+TICK-03-006,Tech_03,Basse,Fermé,Logiciel,Problème de Autre signalé par l'utilisateur.,2026-02-24,
+TICK-03-007,Tech_03,Haute,Fermé,Réseau,Problème de Autre signalé par l'utilisateur.,2026-01-30,
+TICK-03-008,Tech_03,Moyenne,Ouvert,Email,Problème de Virus signalé par l'utilisateur.,2026-02-24,
+TICK-03-009,Tech_03,Basse,En cours,Logiciel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-12,
+TICK-03-010,Tech_03,Basse,Ouvert,Matériel,Problème de Email signalé par l'utilisateur.,2026-02-17,
+TICK-03-011,Tech_03,Critique,Résolu,Autre,Problème de Réseau signalé par l'utilisateur.,2026-01-05,2026-01-12
+TICK-03-012,Tech_03,Moyenne,Ouvert,Accès,Problème de Matériel signalé par l'utilisateur.,2026-02-06,
+TICK-03-013,Tech_03,Critique,Ouvert,Autre,Problème de Autre signalé par l'utilisateur.,2026-01-30,
+TICK-03-014,Tech_03,Moyenne,Ouvert,Accès,Problème de Email signalé par l'utilisateur.,2026-02-17,
+TICK-03-015,Tech_03,Moyenne,Fermé,Imprimante,Problème de Autre signalé par l'utilisateur.,2026-02-27,2026-03-04
+TICK-03-016,Tech_03,Basse,Fermé,Imprimante,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-27,2026-02-28
+TICK-03-017,Tech_03,Critique,Fermé,Imprimante,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-16,2026-01-17
+TICK-03-018,Tech_03,Basse,Ouvert,Réseau,Problème de Accès signalé par l'utilisateur.,2026-01-12,
+TICK-03-019,Tech_03,Moyenne,Fermé,Logiciel,Problème de Réseau signalé par l'utilisateur.,2026-01-12,2026-01-13
+TICK-03-020,Tech_03,Critique,En cours,Autre,Problème de Autre signalé par l'utilisateur.,2026-02-19,
+TICK-03-021,Tech_03,Haute,Ouvert,Imprimante,Problème de Autre signalé par l'utilisateur.,2026-01-26,
+TICK-03-022,Tech_03,Critique,Ouvert,Imprimante,Problème de Virus signalé par l'utilisateur.,2026-02-22,
+TICK-03-023,Tech_03,Basse,En cours,Virus,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-21,
+TICK-03-024,Tech_03,Basse,En cours,Email,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-04,
+TICK-03-025,Tech_03,Basse,Fermé,Email,Problème de Email signalé par l'utilisateur.,2026-01-23,2026-01-28
+TICK-03-026,Tech_03,Basse,Ouvert,Imprimante,Problème de Virus signalé par l'utilisateur.,2026-01-25,
+TICK-03-027,Tech_03,Critique,Ouvert,Virus,Problème de Réseau signalé par l'utilisateur.,2026-01-22,
+TICK-03-028,Tech_03,Haute,En cours,Imprimante,Problème de Réseau signalé par l'utilisateur.,2026-01-12,
+TICK-03-029,Tech_03,Haute,Ouvert,Virus,Problème de Imprimante signalé par l'utilisateur.,2026-02-27,
+TICK-03-030,Tech_03,Critique,Résolu,Virus,Problème de Email signalé par l'utilisateur.,2026-02-28,2026-03-05
+TICK-04-001,Tech_04,Moyenne,Résolu,Autre,Problème de Accès signalé par l'utilisateur.,2026-02-14,2026-02-24
+TICK-04-002,Tech_04,Moyenne,Résolu,Virus,Problème de Autre signalé par l'utilisateur.,2026-02-04,2026-02-15
+TICK-04-003,Tech_04,Haute,En cours,Sauvegarde,Problème de Autre signalé par l'utilisateur.,2026-02-27,
+TICK-04-004,Tech_04,Basse,En cours,Accès,Problème de Mot de passe signalé par l'utilisateur.,2026-01-09,
+TICK-04-005,Tech_04,Moyenne,Ouvert,Imprimante,Problème de Matériel signalé par l'utilisateur.,2026-01-19,
+TICK-04-006,Tech_04,Moyenne,Fermé,Réseau,Problème de Mot de passe signalé par l'utilisateur.,2026-01-07,2026-01-11
+TICK-04-007,Tech_04,Haute,Résolu,Réseau,Problème de Logiciel signalé par l'utilisateur.,2026-02-08,2026-02-18
+TICK-04-008,Tech_04,Critique,Fermé,Virus,Problème de Email signalé par l'utilisateur.,2026-01-28,2026-02-01
+TICK-04-009,Tech_04,Basse,En cours,Matériel,Problème de Virus signalé par l'utilisateur.,2026-01-01,
+TICK-04-010,Tech_04,Moyenne,En cours,Accès,Problème de Mot de passe signalé par l'utilisateur.,2026-02-25,
+TICK-04-011,Tech_04,Haute,Fermé,Réseau,Problème de Imprimante signalé par l'utilisateur.,2026-01-21,2026-01-26
+TICK-04-012,Tech_04,Moyenne,Ouvert,Matériel,Problème de Accès signalé par l'utilisateur.,2026-02-26,
+TICK-04-013,Tech_04,Haute,Ouvert,Autre,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-23,
+TICK-04-014,Tech_04,Critique,Ouvert,Autre,Problème de Imprimante signalé par l'utilisateur.,2026-02-07,
+TICK-04-015,Tech_04,Critique,En cours,Accès,Problème de Virus signalé par l'utilisateur.,2026-01-26,
+TICK-04-016,Tech_04,Basse,Résolu,Virus,Problème de Matériel signalé par l'utilisateur.,2026-02-05,2026-02-11
+TICK-04-017,Tech_04,Basse,Fermé,Réseau,Problème de Mot de passe signalé par l'utilisateur.,2026-02-22,2026-03-06
+TICK-04-018,Tech_04,Basse,Résolu,Logiciel,Problème de Autre signalé par l'utilisateur.,2026-01-18,2026-01-23
+TICK-04-019,Tech_04,Basse,Ouvert,Email,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-25,
+TICK-04-020,Tech_04,Haute,Fermé,Matériel,Problème de Accès signalé par l'utilisateur.,2026-02-02,2026-02-04
+TICK-04-021,Tech_04,Haute,Résolu,Matériel,Problème de Matériel signalé par l'utilisateur.,2026-01-26,2026-02-01
+TICK-04-022,Tech_04,Basse,Résolu,Accès,Problème de Email signalé par l'utilisateur.,2026-02-03,
+TICK-04-023,Tech_04,Basse,Résolu,Mot de passe,Problème de Réseau signalé par l'utilisateur.,2026-01-06,2026-01-11
+TICK-04-024,Tech_04,Moyenne,Ouvert,Autre,Problème de Réseau signalé par l'utilisateur.,2026-02-22,
+TICK-04-025,Tech_04,Basse,En cours,Réseau,Problème de Imprimante signalé par l'utilisateur.,2026-01-17,
+TICK-04-026,Tech_04,Haute,Fermé,Sauvegarde,Problème de Email signalé par l'utilisateur.,2026-01-01,2026-01-03
+TICK-04-027,Tech_04,Haute,En cours,Logiciel,Problème de Matériel signalé par l'utilisateur.,2026-01-26,
+TICK-04-028,Tech_04,Haute,En cours,Virus,Problème de Matériel signalé par l'utilisateur.,2026-02-23,
+TICK-04-029,Tech_04,Basse,Résolu,Accès,Problème de Logiciel signalé par l'utilisateur.,2026-02-17,2026-02-24
+TICK-04-030,Tech_04,Critique,Fermé,Logiciel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-11,2026-01-17
+TICK-05-001,Tech_05,Haute,Résolu,Réseau,Problème de Logiciel signalé par l'utilisateur.,2026-02-19,2026-03-05
+TICK-05-002,Tech_05,Haute,Fermé,Email,Problème de Autre signalé par l'utilisateur.,2026-02-21,2026-02-22
+TICK-05-003,Tech_05,Moyenne,Fermé,Sauvegarde,Problème de Matériel signalé par l'utilisateur.,2026-02-20,2026-03-05
+TICK-05-004,Tech_05,Basse,Fermé,Logiciel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-10,2026-01-14
+TICK-05-005,Tech_05,Haute,Résolu,Réseau,Problème de Virus signalé par l'utilisateur.,2026-02-22,2026-03-08
+TICK-05-006,Tech_05,Haute,Résolu,Mot de passe,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-23,
+TICK-05-007,Tech_05,Basse,Fermé,Réseau,Problème de Réseau signalé par l'utilisateur.,2026-01-04,
+TICK-05-008,Tech_05,Moyenne,Ouvert,Réseau,Problème de Réseau signalé par l'utilisateur.,2026-01-27,
+TICK-05-009,Tech_05,Moyenne,Fermé,Mot de passe,Problème de Accès signalé par l'utilisateur.,2026-01-21,
+TICK-05-010,Tech_05,Critique,Ouvert,Autre,Problème de Logiciel signalé par l'utilisateur.,2026-01-06,
+TICK-05-011,Tech_05,Basse,Résolu,Autre,Problème de Virus signalé par l'utilisateur.,2026-02-18,2026-03-03
+TICK-05-012,Tech_05,Haute,En cours,Matériel,Problème de Autre signalé par l'utilisateur.,2026-02-16,
+TICK-05-013,Tech_05,Basse,Résolu,Imprimante,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-05,2026-02-06
+TICK-05-014,Tech_05,Moyenne,Résolu,Sauvegarde,Problème de Logiciel signalé par l'utilisateur.,2026-01-22,2026-02-03
+TICK-05-015,Tech_05,Critique,Résolu,Réseau,Problème de Email signalé par l'utilisateur.,2026-02-14,
+TICK-05-016,Tech_05,Haute,Résolu,Logiciel,Problème de Autre signalé par l'utilisateur.,2026-01-03,2026-01-17
+TICK-05-017,Tech_05,Basse,Résolu,Autre,Problème de Email signalé par l'utilisateur.,2026-02-07,2026-02-16
+TICK-05-018,Tech_05,Moyenne,En cours,Virus,Problème de Matériel signalé par l'utilisateur.,2026-02-26,
+TICK-05-019,Tech_05,Haute,En cours,Virus,Problème de Logiciel signalé par l'utilisateur.,2026-01-13,
+TICK-05-020,Tech_05,Haute,En cours,Sauvegarde,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-16,
+TICK-05-021,Tech_05,Basse,Ouvert,Mot de passe,Problème de Imprimante signalé par l'utilisateur.,2026-02-18,
+TICK-05-022,Tech_05,Haute,Fermé,Mot de passe,Problème de Accès signalé par l'utilisateur.,2026-01-26,2026-02-06
+TICK-05-023,Tech_05,Moyenne,Ouvert,Mot de passe,Problème de Email signalé par l'utilisateur.,2026-02-26,
+TICK-05-024,Tech_05,Moyenne,Résolu,Sauvegarde,Problème de Email signalé par l'utilisateur.,2026-02-17,
+TICK-05-025,Tech_05,Haute,Résolu,Sauvegarde,Problème de Accès signalé par l'utilisateur.,2026-01-09,
+TICK-05-026,Tech_05,Critique,En cours,Imprimante,Problème de Mot de passe signalé par l'utilisateur.,2026-02-05,
+TICK-05-027,Tech_05,Haute,En cours,Virus,Problème de Logiciel signalé par l'utilisateur.,2026-02-23,
+TICK-05-028,Tech_05,Basse,Résolu,Accès,Problème de Mot de passe signalé par l'utilisateur.,2026-01-15,2026-01-25
+TICK-05-029,Tech_05,Basse,Fermé,Imprimante,Problème de Matériel signalé par l'utilisateur.,2026-01-26,2026-01-29
+TICK-05-030,Tech_05,Moyenne,En cours,Mot de passe,Problème de Accès signalé par l'utilisateur.,2026-01-12,
+TICK-06-001,Tech_06,Haute,Résolu,Matériel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-11,2026-01-24
+TICK-06-002,Tech_06,Moyenne,Résolu,Logiciel,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-19,2026-02-24
+TICK-06-003,Tech_06,Basse,Résolu,Virus,Problème de Matériel signalé par l'utilisateur.,2026-01-02,
+TICK-06-004,Tech_06,Haute,En cours,Réseau,Problème de Matériel signalé par l'utilisateur.,2026-01-09,
+TICK-06-005,Tech_06,Moyenne,En cours,Accès,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-05,
+TICK-06-006,Tech_06,Haute,Résolu,Matériel,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-11,2026-01-23
+TICK-06-007,Tech_06,Critique,Ouvert,Virus,Problème de Accès signalé par l'utilisateur.,2026-01-22,
+TICK-06-008,Tech_06,Basse,Ouvert,Accès,Problème de Réseau signalé par l'utilisateur.,2026-01-14,
+TICK-06-009,Tech_06,Basse,Fermé,Autre,Problème de Virus signalé par l'utilisateur.,2026-02-28,2026-03-14
+TICK-06-010,Tech_06,Moyenne,Fermé,Réseau,Problème de Mot de passe signalé par l'utilisateur.,2026-01-18,2026-01-25
+TICK-06-011,Tech_06,Basse,Ouvert,Matériel,Problème de Email signalé par l'utilisateur.,2026-02-02,
+TICK-06-012,Tech_06,Haute,Fermé,Email,Problème de Réseau signalé par l'utilisateur.,2026-01-02,2026-01-10
+TICK-06-013,Tech_06,Critique,Résolu,Autre,Problème de Imprimante signalé par l'utilisateur.,2026-01-06,2026-01-13
+TICK-06-014,Tech_06,Moyenne,Fermé,Email,Problème de Imprimante signalé par l'utilisateur.,2026-01-15,2026-01-16
+TICK-06-015,Tech_06,Basse,Ouvert,Accès,Problème de Email signalé par l'utilisateur.,2026-01-29,
+TICK-06-016,Tech_06,Moyenne,En cours,Autre,Problème de Accès signalé par l'utilisateur.,2026-02-02,
+TICK-06-017,Tech_06,Basse,En cours,Imprimante,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-28,
+TICK-06-018,Tech_06,Basse,Fermé,Imprimante,Problème de Logiciel signalé par l'utilisateur.,2026-02-21,2026-03-06
+TICK-06-019,Tech_06,Critique,Fermé,Autre,Problème de Accès signalé par l'utilisateur.,2026-01-27,2026-01-30
+TICK-06-020,Tech_06,Critique,En cours,Mot de passe,Problème de Mot de passe signalé par l'utilisateur.,2026-01-20,
+TICK-06-021,Tech_06,Haute,En cours,Autre,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-08,
+TICK-06-022,Tech_06,Haute,Fermé,Imprimante,Problème de Imprimante signalé par l'utilisateur.,2026-01-18,2026-01-26
+TICK-06-023,Tech_06,Moyenne,Résolu,Matériel,Problème de Autre signalé par l'utilisateur.,2026-01-05,2026-01-13
+TICK-06-024,Tech_06,Critique,En cours,Virus,Problème de Mot de passe signalé par l'utilisateur.,2026-01-09,
+TICK-06-025,Tech_06,Basse,Ouvert,Autre,Problème de Imprimante signalé par l'utilisateur.,2026-01-11,
+TICK-06-026,Tech_06,Moyenne,Résolu,Email,Problème de Réseau signalé par l'utilisateur.,2026-02-23,2026-02-24
+TICK-06-027,Tech_06,Basse,Ouvert,Autre,Problème de Imprimante signalé par l'utilisateur.,2026-02-09,
+TICK-06-028,Tech_06,Haute,Ouvert,Imprimante,Problème de Virus signalé par l'utilisateur.,2026-02-26,
+TICK-06-029,Tech_06,Moyenne,Résolu,Logiciel,Problème de Matériel signalé par l'utilisateur.,2026-01-26,2026-01-28
+TICK-06-030,Tech_06,Haute,Résolu,Mot de passe,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-12,
+TICK-07-001,Tech_07,Critique,Ouvert,Matériel,Problème de Matériel signalé par l'utilisateur.,2026-01-25,
+TICK-07-002,Tech_07,Critique,En cours,Logiciel,Problème de Accès signalé par l'utilisateur.,2026-01-29,
+TICK-07-003,Tech_07,Basse,Fermé,Matériel,Problème de Imprimante signalé par l'utilisateur.,2026-02-18,
+TICK-07-004,Tech_07,Basse,Fermé,Email,Problème de Matériel signalé par l'utilisateur.,2026-02-23,2026-03-08
+TICK-07-005,Tech_07,Haute,Résolu,Sauvegarde,Problème de Réseau signalé par l'utilisateur.,2026-02-01,
+TICK-07-006,Tech_07,Basse,Ouvert,Sauvegarde,Problème de Réseau signalé par l'utilisateur.,2026-02-01,
+TICK-07-007,Tech_07,Moyenne,Résolu,Logiciel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-18,2026-01-21
+TICK-07-008,Tech_07,Haute,En cours,Imprimante,Problème de Matériel signalé par l'utilisateur.,2026-01-28,
+TICK-07-009,Tech_07,Critique,Résolu,Autre,Problème de Autre signalé par l'utilisateur.,2026-01-08,2026-01-15
+TICK-07-010,Tech_07,Haute,Ouvert,Email,Problème de Logiciel signalé par l'utilisateur.,2026-01-19,
+TICK-07-011,Tech_07,Haute,Ouvert,Réseau,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-07,
+TICK-07-012,Tech_07,Moyenne,Fermé,Virus,Problème de Accès signalé par l'utilisateur.,2026-01-23,2026-02-05
+TICK-07-013,Tech_07,Critique,Résolu,Logiciel,Problème de Réseau signalé par l'utilisateur.,2026-01-03,2026-01-15
+TICK-07-014,Tech_07,Haute,En cours,Imprimante,Problème de Imprimante signalé par l'utilisateur.,2026-02-01,
+TICK-07-015,Tech_07,Haute,En cours,Email,Problème de Logiciel signalé par l'utilisateur.,2026-02-06,
+TICK-07-016,Tech_07,Basse,Résolu,Réseau,Problème de Réseau signalé par l'utilisateur.,2026-01-07,2026-01-08
+TICK-07-017,Tech_07,Basse,En cours,Accès,Problème de Imprimante signalé par l'utilisateur.,2026-02-05,
+TICK-07-018,Tech_07,Haute,Résolu,Email,Problème de Imprimante signalé par l'utilisateur.,2026-01-11,2026-01-13
+TICK-07-019,Tech_07,Moyenne,Ouvert,Accès,Problème de Réseau signalé par l'utilisateur.,2026-01-05,
+TICK-07-020,Tech_07,Basse,Fermé,Autre,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-21,2026-03-05
+TICK-07-021,Tech_07,Haute,En cours,Matériel,Problème de Virus signalé par l'utilisateur.,2026-02-28,
+TICK-07-022,Tech_07,Basse,Résolu,Mot de passe,Problème de Mot de passe signalé par l'utilisateur.,2026-02-09,2026-02-18
+TICK-07-023,Tech_07,Basse,En cours,Logiciel,Problème de Email signalé par l'utilisateur.,2026-02-12,
+TICK-07-024,Tech_07,Critique,En cours,Accès,Problème de Autre signalé par l'utilisateur.,2026-02-06,
+TICK-07-025,Tech_07,Basse,Ouvert,Virus,Problème de Mot de passe signalé par l'utilisateur.,2026-02-05,
+TICK-07-026,Tech_07,Moyenne,En cours,Accès,Problème de Virus signalé par l'utilisateur.,2026-02-27,
+TICK-07-027,Tech_07,Critique,En cours,Virus,Problème de Accès signalé par l'utilisateur.,2026-01-31,
+TICK-07-028,Tech_07,Basse,En cours,Autre,Problème de Logiciel signalé par l'utilisateur.,2026-01-07,
+TICK-07-029,Tech_07,Basse,Résolu,Imprimante,Problème de Réseau signalé par l'utilisateur.,2026-03-01,2026-03-02
+TICK-07-030,Tech_07,Critique,Résolu,Imprimante,Problème de Matériel signalé par l'utilisateur.,2026-01-26,
+TICK-08-001,Tech_08,Moyenne,En cours,Email,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-28,
+TICK-08-002,Tech_08,Basse,Fermé,Autre,Problème de Imprimante signalé par l'utilisateur.,2026-02-23,
+TICK-08-003,Tech_08,Haute,Fermé,Matériel,Problème de Logiciel signalé par l'utilisateur.,2026-02-16,2026-02-19
+TICK-08-004,Tech_08,Basse,Ouvert,Sauvegarde,Problème de Matériel signalé par l'utilisateur.,2026-01-09,
+TICK-08-005,Tech_08,Moyenne,Fermé,Virus,Problème de Email signalé par l'utilisateur.,2026-01-01,2026-01-12
+TICK-08-006,Tech_08,Critique,Fermé,Réseau,Problème de Mot de passe signalé par l'utilisateur.,2026-02-04,2026-02-09
+TICK-08-007,Tech_08,Critique,Ouvert,Matériel,Problème de Matériel signalé par l'utilisateur.,2026-02-03,
+TICK-08-008,Tech_08,Critique,Résolu,Sauvegarde,Problème de Réseau signalé par l'utilisateur.,2026-01-10,2026-01-11
+TICK-08-009,Tech_08,Basse,Résolu,Mot de passe,Problème de Mot de passe signalé par l'utilisateur.,2026-01-08,2026-01-09
+TICK-08-010,Tech_08,Haute,Fermé,Autre,Problème de Virus signalé par l'utilisateur.,2026-01-08,2026-01-17
+TICK-08-011,Tech_08,Haute,Fermé,Matériel,Problème de Email signalé par l'utilisateur.,2026-02-14,2026-02-24
+TICK-08-012,Tech_08,Moyenne,Résolu,Accès,Problème de Email signalé par l'utilisateur.,2026-01-26,2026-02-05
+TICK-08-013,Tech_08,Moyenne,Fermé,Email,Problème de Logiciel signalé par l'utilisateur.,2026-01-09,
+TICK-08-014,Tech_08,Moyenne,Résolu,Autre,Problème de Email signalé par l'utilisateur.,2026-01-31,2026-02-07
+TICK-08-015,Tech_08,Critique,Résolu,Logiciel,Problème de Réseau signalé par l'utilisateur.,2026-01-17,2026-01-25
+TICK-08-016,Tech_08,Haute,Résolu,Email,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-06,2026-02-16
+TICK-08-017,Tech_08,Basse,Ouvert,Logiciel,Problème de Matériel signalé par l'utilisateur.,2026-02-18,
+TICK-08-018,Tech_08,Moyenne,En cours,Email,Problème de Réseau signalé par l'utilisateur.,2026-01-16,
+TICK-08-019,Tech_08,Basse,Résolu,Logiciel,Problème de Réseau signalé par l'utilisateur.,2026-02-11,2026-02-22
+TICK-08-020,Tech_08,Moyenne,Ouvert,Matériel,Problème de Accès signalé par l'utilisateur.,2026-02-28,
+TICK-08-021,Tech_08,Haute,Fermé,Virus,Problème de Autre signalé par l'utilisateur.,2026-02-13,2026-02-21
+TICK-08-022,Tech_08,Basse,Fermé,Matériel,Problème de Matériel signalé par l'utilisateur.,2026-01-30,2026-02-06
+TICK-08-023,Tech_08,Moyenne,En cours,Imprimante,Problème de Logiciel signalé par l'utilisateur.,2026-01-03,
+TICK-08-024,Tech_08,Basse,Ouvert,Virus,Problème de Matériel signalé par l'utilisateur.,2026-02-06,
+TICK-08-025,Tech_08,Moyenne,Résolu,Accès,Problème de Accès signalé par l'utilisateur.,2026-02-26,2026-03-10
+TICK-08-026,Tech_08,Haute,Fermé,Sauvegarde,Problème de Logiciel signalé par l'utilisateur.,2026-02-12,2026-02-19
+TICK-08-027,Tech_08,Critique,Résolu,Imprimante,Problème de Mot de passe signalé par l'utilisateur.,2026-01-25,2026-01-29
+TICK-08-028,Tech_08,Haute,En cours,Logiciel,Problème de Virus signalé par l'utilisateur.,2026-02-22,
+TICK-08-029,Tech_08,Haute,En cours,Sauvegarde,Problème de Mot de passe signalé par l'utilisateur.,2026-01-26,
+TICK-08-030,Tech_08,Haute,Résolu,Matériel,Problème de Virus signalé par l'utilisateur.,2026-01-05,
+TICK-09-001,Tech_09,Haute,Ouvert,Autre,Problème de Réseau signalé par l'utilisateur.,2026-02-04,
+TICK-09-002,Tech_09,Haute,Fermé,Réseau,Problème de Mot de passe signalé par l'utilisateur.,2026-02-19,2026-02-20
+TICK-09-003,Tech_09,Critique,Ouvert,Accès,Problème de Logiciel signalé par l'utilisateur.,2026-01-13,
+TICK-09-004,Tech_09,Critique,Résolu,Virus,Problème de Réseau signalé par l'utilisateur.,2026-01-11,2026-01-14
+TICK-09-005,Tech_09,Haute,Ouvert,Sauvegarde,Problème de Virus signalé par l'utilisateur.,2026-01-25,
+TICK-09-006,Tech_09,Critique,Fermé,Mot de passe,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-05,2026-01-07
+TICK-09-007,Tech_09,Moyenne,En cours,Accès,Problème de Accès signalé par l'utilisateur.,2026-02-28,
+TICK-09-008,Tech_09,Critique,Ouvert,Réseau,Problème de Autre signalé par l'utilisateur.,2026-01-13,
+TICK-09-009,Tech_09,Haute,Fermé,Matériel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-03,2026-01-05
+TICK-09-010,Tech_09,Basse,Fermé,Virus,Problème de Virus signalé par l'utilisateur.,2026-01-24,2026-02-01
+TICK-09-011,Tech_09,Critique,En cours,Email,Problème de Accès signalé par l'utilisateur.,2026-02-22,
+TICK-09-012,Tech_09,Haute,Résolu,Email,Problème de Autre signalé par l'utilisateur.,2026-02-12,2026-02-21
+TICK-09-013,Tech_09,Haute,En cours,Logiciel,Problème de Imprimante signalé par l'utilisateur.,2026-01-10,
+TICK-09-014,Tech_09,Haute,Fermé,Logiciel,Problème de Matériel signalé par l'utilisateur.,2026-01-02,2026-01-15
+TICK-09-015,Tech_09,Critique,Fermé,Sauvegarde,Problème de Réseau signalé par l'utilisateur.,2026-02-10,2026-02-12
+TICK-09-016,Tech_09,Haute,En cours,Autre,Problème de Virus signalé par l'utilisateur.,2026-02-17,
+TICK-09-017,Tech_09,Haute,Fermé,Accès,Problème de Mot de passe signalé par l'utilisateur.,2026-02-01,2026-02-13
+TICK-09-018,Tech_09,Moyenne,Fermé,Imprimante,Problème de Matériel signalé par l'utilisateur.,2026-01-04,
+TICK-09-019,Tech_09,Moyenne,En cours,Matériel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-12,
+TICK-09-020,Tech_09,Moyenne,En cours,Imprimante,Problème de Réseau signalé par l'utilisateur.,2026-01-26,
+TICK-09-021,Tech_09,Haute,Ouvert,Matériel,Problème de Mot de passe signalé par l'utilisateur.,2026-02-21,
+TICK-09-022,Tech_09,Moyenne,Résolu,Email,Problème de Autre signalé par l'utilisateur.,2026-02-16,2026-02-19
+TICK-09-023,Tech_09,Basse,Fermé,Réseau,Problème de Virus signalé par l'utilisateur.,2026-02-03,2026-02-16
+TICK-09-024,Tech_09,Haute,Ouvert,Imprimante,Problème de Logiciel signalé par l'utilisateur.,2026-02-08,
+TICK-09-025,Tech_09,Haute,Résolu,Réseau,Problème de Matériel signalé par l'utilisateur.,2026-02-16,2026-02-22
+TICK-09-026,Tech_09,Basse,Ouvert,Accès,Problème de Imprimante signalé par l'utilisateur.,2026-02-13,
+TICK-09-027,Tech_09,Haute,Résolu,Matériel,Problème de Autre signalé par l'utilisateur.,2026-01-06,2026-01-11
+TICK-09-028,Tech_09,Haute,Ouvert,Matériel,Problème de Virus signalé par l'utilisateur.,2026-03-01,
+TICK-09-029,Tech_09,Haute,Fermé,Sauvegarde,Problème de Virus signalé par l'utilisateur.,2026-01-24,2026-02-05
+TICK-09-030,Tech_09,Haute,Fermé,Logiciel,Problème de Imprimante signalé par l'utilisateur.,2026-01-17,
+TICK-10-001,Tech_10,Critique,Ouvert,Autre,Problème de Réseau signalé par l'utilisateur.,2026-01-07,
+TICK-10-002,Tech_10,Moyenne,En cours,Email,Problème de Matériel signalé par l'utilisateur.,2026-01-20,
+TICK-10-003,Tech_10,Critique,En cours,Virus,Problème de Mot de passe signalé par l'utilisateur.,2026-02-13,
+TICK-10-004,Tech_10,Critique,Fermé,Matériel,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-23,2026-02-25
+TICK-10-005,Tech_10,Moyenne,Fermé,Mot de passe,Problème de Virus signalé par l'utilisateur.,2026-01-21,
+TICK-10-006,Tech_10,Haute,Fermé,Mot de passe,Problème de Réseau signalé par l'utilisateur.,2026-02-02,2026-02-11
+TICK-10-007,Tech_10,Basse,Fermé,Mot de passe,Problème de Mot de passe signalé par l'utilisateur.,2026-01-24,
+TICK-10-008,Tech_10,Critique,Fermé,Logiciel,Problème de Matériel signalé par l'utilisateur.,2026-01-28,2026-02-07
+TICK-10-009,Tech_10,Moyenne,Ouvert,Matériel,Problème de Imprimante signalé par l'utilisateur.,2026-01-02,
+TICK-10-010,Tech_10,Haute,En cours,Autre,Problème de Autre signalé par l'utilisateur.,2026-01-26,
+TICK-10-011,Tech_10,Critique,Résolu,Matériel,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-19,2026-03-01
+TICK-10-012,Tech_10,Moyenne,Résolu,Virus,Problème de Mot de passe signalé par l'utilisateur.,2026-01-11,
+TICK-10-013,Tech_10,Basse,Fermé,Logiciel,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-09,
+TICK-10-014,Tech_10,Moyenne,Fermé,Email,Problème de Imprimante signalé par l'utilisateur.,2026-01-08,2026-01-22
+TICK-10-015,Tech_10,Moyenne,En cours,Réseau,Problème de Virus signalé par l'utilisateur.,2026-01-16,
+TICK-10-016,Tech_10,Moyenne,En cours,Email,Problème de Virus signalé par l'utilisateur.,2026-03-01,
+TICK-10-017,Tech_10,Moyenne,Résolu,Imprimante,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-14,2026-02-17
+TICK-10-018,Tech_10,Haute,Fermé,Logiciel,Problème de Mot de passe signalé par l'utilisateur.,2026-01-29,2026-02-05
+TICK-10-019,Tech_10,Critique,Fermé,Virus,Problème de Réseau signalé par l'utilisateur.,2026-01-18,2026-01-23
+TICK-10-020,Tech_10,Basse,Résolu,Mot de passe,Problème de Matériel signalé par l'utilisateur.,2026-01-28,
+TICK-10-021,Tech_10,Haute,Ouvert,Autre,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-07,
+TICK-10-022,Tech_10,Moyenne,Fermé,Imprimante,Problème de Sauvegarde signalé par l'utilisateur.,2026-01-20,2026-02-01
+TICK-10-023,Tech_10,Moyenne,Fermé,Accès,Problème de Logiciel signalé par l'utilisateur.,2026-02-19,2026-02-28
+TICK-10-024,Tech_10,Moyenne,Fermé,Email,Problème de Autre signalé par l'utilisateur.,2026-02-05,2026-02-07
+TICK-10-025,Tech_10,Critique,Ouvert,Réseau,Problème de Logiciel signalé par l'utilisateur.,2026-02-20,
+TICK-10-026,Tech_10,Moyenne,Résolu,Sauvegarde,Problème de Imprimante signalé par l'utilisateur.,2026-02-09,2026-02-10
+TICK-10-027,Tech_10,Moyenne,Fermé,Logiciel,Problème de Email signalé par l'utilisateur.,2026-02-17,2026-02-27
+TICK-10-028,Tech_10,Moyenne,Ouvert,Mot de passe,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-06,
+TICK-10-029,Tech_10,Moyenne,Résolu,Matériel,Problème de Virus signalé par l'utilisateur.,2026-02-08,2026-02-10
+TICK-10-030,Tech_10,Basse,Ouvert,Matériel,Problème de Sauvegarde signalé par l'utilisateur.,2026-02-26,
